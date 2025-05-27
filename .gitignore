@@ -1,0 +1,22 @@
+# General operating system files
+.DS_Store               # macOS system files (for cross-platform compatibility)
+.localized              # macOS system files (for cross-platform compatibility)
+Thumbs.db               # Windows thumbnail cache (for cross-platform compatibility)
+desktop.ini             # Windows system file (for cross-platform compatibility)
+
+# Neovim/Vim swap, backup, and undo files
+*.swp                   # Vim/Neovim swap files (for crash recovery)
+*.swo                   # Vim/Neovim swap files (older versions)
+*~                      # Vim/Neovim backup files (e.g., file.txt~)
+.#* # Vim/Neovim temporary files (e.g., .#file.txt)
+*.bak                   # Generic backup files (can be from various editors)
+.netrwhist              # Netrw (Vim file explorer) history file
+.undodir/               # Directory for persistent undo history (if configured)
+
+# Editor/IDE specific files (optional, but good practice)
+.vscode/                # VS Code workspace settings (if you ever use it)
+.idea/                  # IntelliJ/PyCharm IDE files (if you ever use it)
+
+# Temporary/Log files
+*.tmp                   # Generic temporary files
+*.log                   # Log files
