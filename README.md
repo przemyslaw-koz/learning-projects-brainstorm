@@ -14,7 +14,7 @@ List of future learning ideas
 
 ## Fantasy Text-Based RPG API
 
-[See detailed description in **`fantasy-rpg-api-idea.md`**](fantasy-rpg-api-idea.md)
+[See detailed description in **`fantasy-text-based-rpg-api.md`**](fantasy-text-based-rpg-api.md)
 
 **Category:** Development
 **Technology:** Python
