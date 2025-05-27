@@ -1,4 +1,4 @@
-# My Programming Project Ideas
+# My Learning Project Ideas
 
 List of future learning ideas
 
